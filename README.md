@@ -85,13 +85,13 @@
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRlODZiZDU4NTQ5ZDg4Zjg5ZTkzMWRlZjAxYzlmZTcxNDVlODkxYSZjdD1n/U2nN0ridM4lXy/giphy.gif" width="180" />
   <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/fnGDsFJv3s2dO/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JlYmJjNTQzY2Y1Y2RkZjE2ZGMzZmY2ZjI4MzgyNTZjNjM4MTdiMSZjdD1n/duzpaTbCUy9Vu/giphy.gif" width="180" />
   <img src="https://media.giphy.com/media/Z1kpfgtHmpWHS/giphy.gif" width="180" />
 </p>
 
-<p align="center"><i>🐾 Chaos-coded & Calico-approved. Powered by chonk energy & command line claws 💻🧡😼</i></p>
+<p align="center"><i>🐾 Chaos-coded & Calico-approved. Approved by your neighborhood debug kitt. Powered by chonk energy & command line claws 💻🧡😼⌨️</i></p>
 
 ---
 
