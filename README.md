@@ -83,16 +83,15 @@
 - 🕸️ Web-based creative storytelling projects
 
 ---
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/M9i2eVSh3drc4BPcMh/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/fnGDsFJv3s2dO/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/Z1kpfgtHmpWHS/giphy.gif" width="180" />
 </p>
 
-<p align="center"><i>🐾 Calico vibes + Computer chaos = Girgit mode ON 🧡💻</i></p>
+<p align="center"><i>🐾 Chaos-coded & Calico-approved. Powered by chonk energy & command line claws 💻🧡😼</i></p>
 
 ---
 
