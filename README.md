@@ -91,7 +91,7 @@
   <img src="https://media.giphy.com/media/Z1kpfgtHmpWHS/giphy.gif" width="180" />
 </p>
 
-<p align="center"><i>🐾 Chaos-coded & Calico-approved. Approved by your neighborhood debug kitt. Powered by chonk energy & command line claws 💻🧡😼⌨️</i></p>
+<p align="center"><i>🐾 Chaos-coded & Calico-approved. Approved by your neighborhood debug kitty. Powered by chonk energy & command line claws 💻🧡😼⌨️</i></p>
 
 ---
 
