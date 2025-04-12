@@ -84,16 +84,17 @@
 
 ---
 
-## 🖼️ Bonus: Sticker-Bomb Vibe ✨
-
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/M9i2eVSh3drc4BPcMh/giphy.gif" width="180" />
 </p>
+
+<p align="center"><i>🐾 Calico vibes + Computer chaos = Girgit mode ON 🧡💻</i></p>
 
 ---
 
-### 🦄 Built with love, code, and a sprinkle of Girgit energy 💚
 
                                                       ehklqg wkh vfhqhv
