@@ -31,8 +31,6 @@
   <img src="https://skillicons.dev/icons?i=python,r,html,css,js,ts,react,nodejs,nextjs,tailwind,git,figma,vscode&perline=8&theme=dark" />
 </p>
 
-### 🌀 Pop-Typing Chaos Stack
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=800&lines=Full-stack+with+Next.js+%2B+Tailwind+✨;React+Fanatic+for+Smooth+UI+⚛️;Node.js+and+TS+for+Backroom+Logic+🧠;Python%2C+R+for+Data+and+Chaos+🔢;Chameleonic+designs+in+Figma+🎨;Hacky+projects+%2B+polished+presentations+🧪" />
 </p>
